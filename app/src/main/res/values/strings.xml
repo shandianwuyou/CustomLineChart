@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">linechart</string>
+
+    <string name="title_line_chart">%1s    人气峰值%2s    日增长率%3s%%</string>
+</resources>
